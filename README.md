@@ -3,86 +3,106 @@ A front-end glossary
 
 [ A ](#a) | [ B ](#b) | [ C ](#c) | [ D ](#d) | [ E ](#e) | [ F ](#f) | [ G ](#g) | [ H ](#h) | [ I ](#i) | [ J ](#j) | [ K ](#k) | [ L ](#l) | [ M ](#m) | [ N ](#n) | [ O ](#o) | [ P ](#p) | [ Q ](#q) | [ R ](#r) | [ S ](#s) | [ T ](#t) | [ U ](#u) | [ V ](#v) | [ W ](#w) | [ X ](#x) | [ Y ](#y) | [ Z ](#z)
 
-# A
+## A
+ - Asynchronous JavaScript and XML (Ajax)
+ - Asynchronous module definition (AMD)
 
-# B
+## B
  - Bidirectional data flow
+ - Block formatting context
 
-# C
+## C
  - Closure
  - Component based architecture
  - Composition over inheritance
  - Container components
  - Controlled component
+ - Cookie
+ - Cross-Origin Resource Sharing (CORS)
 
-# D
+## D
  - Declarative programming
- - DOM
+ - Doctype
+ - Document Object Model (DOM)
 
-# E
+## E
+ - Event bubbling
+ - Event delegation
+ - Event loop
 
-# F
+## F
+ - Flash of unstyled content (FOUC)
+ - Flexbox
  - Flux architecture
  - Functional programming
 
-# G
+## G
  - Generator functions
+ - Grid
 
-# H
+## H
+ - Hypertext Transfer Protocol (HTTP)
  - Higher-order component
  - Higher-order function
 
-# I
+## I
+ - Immediately-invoked function expression (IIFE)
  - Immutability
  - Imperative programming
 
-# J
+## J
+ - JavaScript Object Notation (JSON)
+ - JSONP (JSON with padding)
  - JSX
 
-# K
+## K
 
-# L
+## L
+ - Long polling
 
-# M
+## M
 
-# N
+## N
 
-# O
+## O
  - One-way data flow
 
-# P
+## P
  - Polymorphism
  - Presentational component
  - Progressive Web Application
- - Prototype-based programming
+ - Prototypal inheritance
  - Pure component
  - Pure function
 
-# Q
+## Q
 
-# R
+## R
  - Reactive programming
 
-# S
+## S
+ - Search engine optimization (SEO)
  - Single Page Application
  - Single Source of Truth
  - Synthetic events
 
-# T
+## T
  - Two-way data flow
 
-# U
+## U
  - Unidirectional data flow
 
-# V
+## V
  - Virtual DOM
 
-# W
+## W
  - Web Components
  - WebSocket
+ - Web storage
 
-# X
+## X
+ - Extensible Markup Language (XML)
 
-# Y
+## Y
 
-# Z
+## Z
