@@ -16,14 +16,17 @@ A front-end glossary
  - Component based architecture
  - Composition over inheritance
  - Container components
+ - Content Delivery Network (CDN)
  - Controlled component
  - Cookie
  - Cross-Origin Resource Sharing (CORS)
+ - Cross-Site Request Forgery (CSRF)
 
 ## D
  - Declarative programming
  - Doctype
  - Document Object Model (DOM)
+ - Document Type Definition (DTD)
 
 ## E
  - Event bubbling
@@ -37,11 +40,14 @@ A front-end glossary
  - Functional programming
 
 ## G
+ - Garbage collection
  - Generator functions
+ - Graceful degradation
  - Grid
 
 ## H
  - Hypertext Transfer Protocol (HTTP)
+ - Hypertext Transfer Protocol over SSL (HTTPS)
  - Higher-order component
  - Higher-order function
 
@@ -49,8 +55,10 @@ A front-end glossary
  - Immediately-invoked function expression (IIFE)
  - Immutability
  - Imperative programming
+ - Inheritance
 
 ## J
+ - JavaScript
  - JavaScript Object Notation (JSON)
  - JSONP (JSON with padding)
  - JSX
@@ -58,9 +66,13 @@ A front-end glossary
 ## K
 
 ## L
+ - Local scope
  - Long polling
 
 ## M
+ - Media Query
+ - Metadata
+ - Multipurpose Internet Mail Extensions (MIME)
 
 ## N
 
@@ -76,17 +88,23 @@ A front-end glossary
  - Pure function
 
 ## Q
+ - Quirks mode
 
 ## R
  - Reactive programming
+ - Reflow
+ - Responsive web design
 
 ## S
+ - Same-origin policy
  - Search engine optimization (SEO)
  - Single Page Application
  - Single Source of Truth
+ - Sloppy mode
  - Synthetic events
 
 ## T
+ - Tree shaking
  - Two-way data flow
 
 ## U
@@ -97,11 +115,14 @@ A front-end glossary
 
 ## W
  - Web Components
+ - Web Real-Time Communication (WebRTC)
  - WebSocket
  - Web storage
 
 ## X
+ - Cross-site scripting (XSS)
  - Extensible Markup Language (XML)
+ - Extensible Hypertext Markup Language (XHTML)
 
 ## Y
 
