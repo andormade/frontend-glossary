@@ -77,6 +77,7 @@ A front-end glossary
 ## N
 
 ## O
+ - Observable state
  - One-way data flow
 
 ## P
@@ -91,6 +92,7 @@ A front-end glossary
  - Quirks mode
 
 ## R
+ - Reactive functional programming (RFP)
  - Reactive programming
  - Reflow
  - Responsive web design
