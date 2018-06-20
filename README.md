@@ -21,6 +21,7 @@ A front-end glossary
  - Cookie
  - Cross-Origin Resource Sharing (CORS)
  - Cross-Site Request Forgery (CSRF)
+ - Create Read Update Delete (CRUD)
 
 ## D
  - Declarative programming
